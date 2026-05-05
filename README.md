@@ -103,7 +103,6 @@ public class AdityaPagare extends Developer {
 
 ## 📊 GitHub Analytics
 
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaPagare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPagare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
@@ -116,7 +115,15 @@ public class AdityaPagare extends Developer {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPagare&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
----
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaPagare&theme=tokyonight" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaPagare&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaPagare&theme=tokyonight"/>
+</div>
 
 ## 🏆 GitHub Trophies
 
