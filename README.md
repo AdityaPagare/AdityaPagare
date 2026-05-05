@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Laravel+%7C+Spring+Boot+%7C+React+Developer;1%2B+Year+Building+Scalable+Systems;Clean+Code+%7C+Clean+Architecture;Open+to+Remote+%26+Freelance+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Node.js+Developer;1%2B+Year+Building+Scalable+Systems;Clean+Code+%7C+Clean+Architecture;Open+to+Remote+%26+Freelance+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,31 +22,30 @@
 
 ## 🧑‍💻 About Me
 
-```php
-<?php
+```java
+public class AdityaPagare extends Developer {
 
-class AdityaPagare extends Developer
-{
-    public string $name     = "Aditya Pagare";
-    public string $role     = "Full Stack Developer (Backend Focused)";
-    public string $location = "Aurangabad, Maharashtra, India";
-    public string $edu      = "MCA — Maharashtra Institute of Technology (2022–2024)";
+    String name     = "Aditya Pagare";
+    String role     = "Full Stack Developer (Backend Focused)";
+    String location = "Aurangabad, Maharashtra, India";
+    String edu      = "MCA — Maharashtra Institute of Technology (2022–2024)";
 
-    public array $currentlyBuilding = [
-        "Bio-Cart CRM" => "Laravel-based merchant & admin platform",
-        "ERPNext Integrations" => "Jira/Atlassian API bridges",
-        "Scalable Purchase Modules" => "End-to-end PO management systems",
-    ];
+    String[] stack = { "Java", "Spring Boot", "Node.js", "React", "Angular" };
 
-    public array $interests = [
+    Map<String, String> currentlyBuilding = Map.of(
+        "REST APIs",        "Spring Boot & Node.js powered microservices",
+        "Admin Dashboards", "Full-stack CRUD with React & Angular",
+        "Hand Tracker",     "MediaPipe + Verlet physics ropes in React"
+    );
+
+    String[] interests = {
         "Clean Backend Architecture",
         "API Design & Integrations",
-        "MediaPipe Hand Tracking (React)",
         "System Design",
-    ];
+        "Open Source"
+    };
 
-    public function greeting(): string
-    {
+    String greeting() {
         return "I build practical, high-impact systems. Let's create something great.";
     }
 }
@@ -59,10 +58,10 @@ class AdityaPagare extends Developer
 <div align="center">
 
 ### 🔷 Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🔶 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -95,7 +94,7 @@ class AdityaPagare extends Developer
 | ☕ **Coffee Cafe** | Full-stack online coffee ordering system with cart & order flow | `React` `MySQL` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagaree) |
 | 🌐 **Portfolio** | Personal developer portfolio with project showcase | `React` `Netlify` | [![Live](https://img.shields.io/badge/Live-Visit-orange?style=flat-square&logo=netlify)](https://adipagare-portfolio.netlify.app/) |
 | ⚙️ **Admin Panel** | Feature-rich dashboard with full CRUD operations | `Spring Boot` `MySQL` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagaree) |
-| 🛒 **Bio-Cart CRM** | Enterprise merchant/admin CRM with Jira & ERPNext integrations | `Laravel` `MySQL` `Jira API` | 🔒 Private |
+| 🛒 **Bio-Cart CRM** | Enterprise merchant/admin CRM with Jira & ERPNext integrations | `Spring Boot` `MySQL` `Jira API` | 🔒 Private |
 | 🖐️ **Hand Tracker** | Real-time MediaPipe hand tracking with Verlet physics ropes | `React` `MediaPipe` `Canvas` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagaree) |
 
 </div>
