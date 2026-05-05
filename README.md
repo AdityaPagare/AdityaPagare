@@ -1,77 +1,180 @@
-# 👋 Hey, I'm Aditya Pagare
+<div align="center">
 
-### 💻 Full Stack Developer | Backend Focused
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Pagare&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Focused&descAlignY=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-![Role](https://img.shields.io/badge/Role-Full_Stack_Developer-blue)
-![Experience](https://img.shields.io/badge/Experience-1%2B_Year-green)
-![Location](https://img.shields.io/badge/Location-India-orange)
-![Open To](https://img.shields.io/badge/Open_to-Work-purple)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Laravel+%7C+Spring+Boot+%7C+React+Developer;1%2B+Year+Building+Scalable+Systems;Clean+Code+%7C+Clean+Architecture;Open+to+Remote+%26+Freelance+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🌐 Connect
-[![Email](https://img.shields.io/badge/Email-red)](mailto:adityappagare358@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/aditya-pagare/)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/AdityaPagaree)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange)](https://adipagare-portfolio.netlify.app/)
+<!-- Profile Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=AdityaPagaree&label=Profile%20Views&color=7c3aed&style=flat-square)](https://github.com/AdityaPagaree)
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Work-16a34a?style=flat-square)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D-Aurangabad%2C%20India-f59e0b?style=flat-square)
+![Experience](https://img.shields.io/badge/%E2%8C%9B-1%2B%20Year%20Experience-6366f1?style=flat-square)
 
----
-
-## 📄 Profile Summary
-I build practical, high-impact web applications using Laravel, Java, and modern frontend tools.  
-Focused on clean backend architecture and scalable systems.
+</div>
 
 ---
 
-## 🚀 Featured Work
+## 🧑‍💻 About Me
 
-| Project | What it Does | Stack |
-|--------|------------|------|
-| Coffee Cafe ☕ | Online coffee ordering system | React, MySQL |
-| Portfolio 🌐 | Personal portfolio website | React |
-| Admin Panel ⚙️ | Dashboard with CRUD operations | spring boot |
+```php
+<?php
 
----
+class AdityaPagare extends Developer
+{
+    public string $name     = "Aditya Pagare";
+    public string $role     = "Full Stack Developer (Backend Focused)";
+    public string $location = "Aurangabad, Maharashtra, India";
+    public string $edu      = "MCA — Maharashtra Institute of Technology (2022–2024)";
 
-## 🛠️ Core Stack
+    public array $currentlyBuilding = [
+        "Bio-Cart CRM" => "Laravel-based merchant & admin platform",
+        "ERPNext Integrations" => "Jira/Atlassian API bridges",
+        "Scalable Purchase Modules" => "End-to-end PO management systems",
+    ];
 
-### Frontend
-![React](https://img.shields.io/badge/React-blue)
-![Angular](https://img.shields.io/badge/Angular-red)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue)
+    public array $interests = [
+        "Clean Backend Architecture",
+        "API Design & Integrations",
+        "MediaPipe Hand Tracking (React)",
+        "System Design",
+    ];
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-red)
-![Java](https://img.shields.io/badge/Java-orange)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![Git](https://img.shields.io/badge/Git-black)
-![Docker](https://img.shields.io/badge/Docker-blue)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+    public function greeting(): string
+    {
+        return "I build practical, high-impact systems. Let's create something great.";
+    }
+}
+```
 
 ---
 
-## 🎯 Project Showcase
+## 🛠️ Tech Stack
 
-[![Coffee Project](https://img.shields.io/badge/Coffee_Project-View-black)](https://github.com/your-username/your-repo)
+<div align="center">
+
+### 🔷 Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🔶 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Database & Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔌 Integrations & Tools
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏷️ Project | 📋 Description | 🔧 Stack | 🔗 Link |
+|:---:|:---|:---:|:---:|
+| ☕ **Coffee Cafe** | Full-stack online coffee ordering system with cart & order flow | `React` `MySQL` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagaree) |
+| 🌐 **Portfolio** | Personal developer portfolio with project showcase | `React` `Netlify` | [![Live](https://img.shields.io/badge/Live-Visit-orange?style=flat-square&logo=netlify)](https://adipagare-portfolio.netlify.app/) |
+| ⚙️ **Admin Panel** | Feature-rich dashboard with full CRUD operations | `Spring Boot` `MySQL` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagaree) |
+| 🛒 **Bio-Cart CRM** | Enterprise merchant/admin CRM with Jira & ERPNext integrations | `Laravel` `MySQL` `Jira API` | 🔒 Private |
+| 🖐️ **Hand Tracker** | Real-time MediaPipe hand tracking with Verlet physics ropes | `React` `MediaPipe` `Canvas` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagaree) |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaPagaree&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPagaree&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPagaree&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPagaree&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPagaree&theme=darkhub&no-frame=true&column=7&margin-w=8" width="100%"/>
+</div>
 
 ---
 
 ## 📜 Certifications
--JRHCSA (Red Hat Certified System Administrator)
-- Tools of the Trade: Linux and SQL 
-- Data Analysis with Python
-- Foundations of Cybersecurity
 
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer |
+|:---|:---:|
+| 🔴 **RHCSA** — Red Hat Certified System Administrator | Red Hat |
+| 🐧 **Tools of the Trade: Linux and SQL** | Google / Coursera |
+| 📊 **Data Analysis with Python** | IBM / Coursera |
+| 🔐 **Foundations of Cybersecurity** | Google / Coursera |
+
+</div>
 
 ---
 
-🔥 Open to freelance projects, remote roles, and collaborations.
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+> 🔄 *WakaTime stats auto-update here once WakaTime is connected.*
+<!--END_SECTION:waka-->
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityappagare358@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pagare/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaPagaree)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adipagare-portfolio.netlify.app/)
+
+<br/>
+
+> 💼 **Open to:** Full-time roles · Remote opportunities · Freelance projects · Open-source collaborations
+>
+> 📬 **Response time:** Within 24 hours
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+⭐ **If you find my work useful, consider starring my repositories!**
+
+</div>
