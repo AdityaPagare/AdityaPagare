@@ -91,11 +91,10 @@ public class AdityaPagare extends Developer {
 
 | 🏷️ Project | 📋 Description | 🔧 Stack | 🔗 Link |
 |:---:|:---|:---:|:---:|
-| ☕ **Coffee Cafe** | Full-stack online coffee ordering system with cart & order flow | `React` `MySQL` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagaree) |
+| ☕ **Coffee Cafe** | Full-stack online coffee ordering system with cart & order flow | `React` `MySQL` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagare/CoffeeCore) |
 | 🌐 **Portfolio** | Personal developer portfolio with project showcase | `React` `Netlify` | [![Live](https://img.shields.io/badge/Live-Visit-orange?style=flat-square&logo=netlify)](https://adipagare-portfolio.netlify.app/) |
-| ⚙️ **Admin Panel** | Feature-rich dashboard with full CRUD operations | `Spring Boot` `MySQL` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagaree) |
-| 🛒 **Bio-Cart CRM** | Enterprise merchant/admin CRM with Jira & ERPNext integrations | `Spring Boot` `MySQL` `Jira API` | 🔒 Private |
-| 🖐️ **Hand Tracker** | Real-time MediaPipe hand tracking with Verlet physics ropes | `React` `MediaPipe` `Canvas` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagaree) |
+| ⚙️ **HRMS** | Feature-rich dashboard with full CRUD operations | `Spring Boot` `MySQL` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/REPL-IT-Intern/ui-eob) |
+| 🖐️ **Gsap Butterfly** | Real-time MediaPipe hand tracking with Verlet physics ropes | `React` `MediaPipe` `Canvas` | [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/AdityaPagare/gsap-butterfly-animation) |
 
 </div>
 
