@@ -21,7 +21,6 @@
 ---
 
 ## 🧑‍💻 About me
-
 ```java
 public class AdityaPagare extends Developer {
 
