@@ -21,7 +21,7 @@
 ---
 
 ## 🧑‍💻 About me
-```java
+```java 
 public class AdityaPagare extends Developer {
 
     String name     = "Aditya Pagare";
