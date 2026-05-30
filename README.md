@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Node.js+Developer;1%2B+Year+Building+Scalable+Systems;Clean+Code+%7C+Clean+Architecture;Open+to+Remote+%26+Freelance+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/> 
 
 <!-- Profile Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=AdityaPagaree&label=Profile%20Views&color=7c3aed&style=flat-square)](https://github.com/AdityaPagaree)
