@@ -10,7 +10,7 @@
 
 <br/> 
 
-<!-- Profile Badges -->
+<!-- Profile Badges --> 
 [![Profile Views](https://komarev.com/ghpvc/?username=AdityaPagaree&label=Profile%20Views&color=7c3aed&style=flat-square)](https://github.com/AdityaPagaree)
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2-Open%20to%20Work-16a34a?style=flat-square)
 ![Location](https://img.shields.io/badge/%F0%9F%93%8D-Aurangabad%2C%20India-f59e0b?style=flat-square)
