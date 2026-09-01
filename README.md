@@ -16,7 +16,7 @@
 ![Location](https://img.shields.io/badge/%F0%9F%93%8D-Aurangabad%2C%20India-f59e0b?style=flat-square)
 ![Experience](https://img.shields.io/badge/%E2%8C%9B-1%2B%20Year%20Experience-6366f1?style=flat-square)
 
-</div>
+</div> 
 
 --- 
 
