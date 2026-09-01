@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- Animated Header Banner --> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Pagare&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Focused&descAlignY=60&fontColor=ffffff&animation=fadeIn" width="100%"/>  
 
 <!-- Typing Animation -->
