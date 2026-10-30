@@ -111,7 +111,7 @@ The public website for the same shop: a catalogue of cycles with photos, a cart 
 
 <br/><br/>
 
-[![Live site](https://img.shields.io/badge/Live-cyclewala--ten.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://cyclewala-ten.vercel.app/)
+[![Live site](https://img.shields.io/badge/Live-cyclewala.shop-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cyclewala.shop/)
 
 [![Source](https://img.shields.io/badge/GitHub-Source%20code-181717?style=for-the-badge&logo=github)](https://github.com/pagareadi0/cyclewala)
 
